@@ -1,0 +1,57 @@
+[
+    {
+      "breedId": "B101",
+      "breedName": "Golden Retriever",
+      "description": "Friendly, intelligent, and devoted. Great family dog.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+      "breedId": "B102",
+      "breedName": "Poodle",
+      "description": "Friendly, intelligent, and devoted. Another great family dog.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+      "breedId": "B103",
+      "breedName": "Labrador Retriever",
+      "description": "Energetic, friendly, and outgoing. Excellent with kids.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+      "breedId": "B104",
+      "breedName": "Dachshund",
+      "description": "Curious, playful, and long-bodied. Known as \"wiener dogs.\"",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+      "breedId": "B105",
+      "breedName": "Beagle",
+      "description": "Friendly, curious, and scent-driven. Great for families.",
+     "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+      "breedId": "B106",
+      "breedName": "Siberian Husky",
+      "description": "Independent, energetic, and loves cold weather.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    }
+  ]
+  
